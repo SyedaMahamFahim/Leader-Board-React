@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-leader-board/static/css/main.a3375312.chunk.css",
+    "main.js": "/react-leader-board/static/js/main.16fb832d.chunk.js",
+    "main.js.map": "/react-leader-board/static/js/main.16fb832d.chunk.js.map",
+    "runtime-main.js": "/react-leader-board/static/js/runtime-main.f68dc6f8.js",
+    "runtime-main.js.map": "/react-leader-board/static/js/runtime-main.f68dc6f8.js.map",
+    "static/js/2.7c0e1693.chunk.js": "/react-leader-board/static/js/2.7c0e1693.chunk.js",
+    "static/js/2.7c0e1693.chunk.js.map": "/react-leader-board/static/js/2.7c0e1693.chunk.js.map",
+    "static/js/3.e68ce45f.chunk.js": "/react-leader-board/static/js/3.e68ce45f.chunk.js",
+    "static/js/3.e68ce45f.chunk.js.map": "/react-leader-board/static/js/3.e68ce45f.chunk.js.map",
+    "index.html": "/react-leader-board/index.html",
+    "static/css/main.a3375312.chunk.css.map": "/react-leader-board/static/css/main.a3375312.chunk.css.map",
+    "static/js/2.7c0e1693.chunk.js.LICENSE.txt": "/react-leader-board/static/js/2.7c0e1693.chunk.js.LICENSE.txt",
+    "static/media/css.9c06d480.png": "/react-leader-board/static/media/css.9c06d480.png",
+    "static/media/style.css": "/react-leader-board/static/media/html.6e3e95af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f68dc6f8.js",
+    "static/js/2.7c0e1693.chunk.js",
+    "static/css/main.a3375312.chunk.css",
+    "static/js/main.16fb832d.chunk.js"
+  ]
+}
