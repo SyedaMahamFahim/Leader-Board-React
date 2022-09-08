@@ -31,7 +31,17 @@ Go to the project directory
 
 ```
 
-Copy the slider code and add in your react project
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
 
 # Screenshots
